@@ -1,10 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
+using Photon.Pun;
 using UnityEngine;
 
-namespace Silly
+namespace gunggme
 {
-    public class GUINetwork : MonoBehaviour
+    public class GUINetwork : MonoBehaviourPunCallbacks
     {
         
     }
